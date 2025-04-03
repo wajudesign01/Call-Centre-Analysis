@@ -13,7 +13,7 @@
 - Transforming data
 
 # Exploratory Data Analysis
-EDA involved exploring Airline data to answer some key questions such as;
+EDA involved exploring call centre data to answer some key questions such as;
 - What month is our month of peak time of service requests?
 - Between what time frame customers expressed great amount of satisfaction?
 - What is the most preferred call duration time among customer?
